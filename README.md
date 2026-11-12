@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Sithara! 👋
 
-<!--
-**Sithara-afk/Sithara-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Software Technology Undergraduate
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in technology, software development, and creative problem-solving.
+
+### 🌱 Currently Learning
+- Java
+- HTML & CSS
+- PHP
+- JavaScript
+- SQL
+
+### 🎯 My Interests
+- Web Development
+- Software Development
+- UI/UX Design
+- Business Analysis
+
+### 📫 Connect With Me
+- GitHub: https://github.com/Sithara-afk
+
+---
+⭐ Thank you for visiting my profile!
